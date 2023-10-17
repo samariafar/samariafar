@@ -1,0 +1,9 @@
+*               text eol=lf
+.*              text eol=lf
+
+*.gif           binary
+*.png           binary
+
+*.md            diff=markdown
+
+/.assets        export-ignore
