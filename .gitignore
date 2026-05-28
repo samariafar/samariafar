@@ -1,0 +1,11 @@
+# DevTools
+/.idea/
+/.vscode/
+/.claude/
+
+# Misc.
+.DS_Store
+Thumbs.db
+desktop.ini
+*.sw?
+*~
